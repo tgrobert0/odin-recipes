@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background: #F2DDC1;
+    color: #D06224;
+    text-align: center;
+
+}
+
+h1 {
+    color: #AE431E;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2rem;
+}
